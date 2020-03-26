@@ -13,6 +13,26 @@
   src: url('./fonts/montserrat/medium.otf') format('truetype');
 }
 
+@font-face {
+  font-family: 'np-thin';
+  src: url('./fonts/nationalpark/np-thin.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'np-regular';
+  src: url('./fonts/nationalpark/np-regular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'np-outline';
+  src: url('./fonts/nationalpark/np-outline.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'np-heavy';
+  src: url('./fonts/nationalpark/np-heavy.otf') format('truetype');
+}
+
 #outer {
   padding-top: 10%;
   text-align: center;
