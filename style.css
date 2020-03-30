@@ -40,6 +40,12 @@
   padding-left: 8%;
 }
 
+.captioned-image {
+  text-align: center;
+  font-size: 0.8em;
+
+}
+
 #outer {
   padding-top: 10%;
   text-align: center;
