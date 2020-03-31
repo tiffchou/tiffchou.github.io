@@ -75,11 +75,6 @@
   font-family: 'np-regular';
 }
 
-.outer {
-  padding-top: 5%;
-  text-align: center;
-}
-
 .title {
   font-size: 2.5em;
   font-family: 'np-regular';
@@ -96,11 +91,14 @@
 }
 
 #main-title {
+  padding-top: 10%;
   font-size: 4em;
   font-family: 'np-regular';
+  text-align: center;
 }
 
 #main-subtitle {
   font-size: 1.2em;
   font-family: 'np-thin';
+  text-align: center;
 }
