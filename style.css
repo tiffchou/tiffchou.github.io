@@ -79,3 +79,28 @@
   padding-top: 5%;
   text-align: center;
 }
+
+.title {
+  font-size: 2.5em;
+  font-family: 'np-regular';
+}
+
+.header {
+  font-size: 1.7em;
+  font-family: 'np-regular';
+}
+
+.text-body {
+  font-size: 1.1em;
+  font-family: 'np-thin';
+}
+
+#main-title {
+  font-size: 4em;
+  font-family: 'np-regular';
+}
+
+#main-subtitle {
+  font-size: 1.2em;
+  font-family: 'np-thin';
+}
