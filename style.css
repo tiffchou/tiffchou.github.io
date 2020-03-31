@@ -61,7 +61,7 @@
   right: 100;
   padding-bottom: 5%;
   padding-left: 5%;
-  font-size: 1em;
+  font-size: 1.3em;
   font-family: 'np-regular';
 }
 
@@ -71,11 +71,11 @@
   right: 0;
   padding-bottom: 5%;
   padding-right: 5%;
-  font-size: 1em;
+  font-size: 1.3em;
   font-family: 'np-regular';
 }
 
 .outer {
-  padding-top: 10%;
+  padding-top: 5%;
   text-align: center;
 }
