@@ -47,7 +47,15 @@
   font-family: 'np-regular'
 }
 
-.top-corner {
+.northwest-corner {
+  position: absolute;
+  top: 0;
+  right: 100;
+  padding-top: 5%;
+  padding-left: 5%;
+}
+
+.northeast-corner {
   position: absolute;
   top: 0;
   right: 0;
@@ -55,7 +63,7 @@
   padding-right: 5%;
 }
 
-.previous-corner {
+.southwest-corner {
   position: absolute;
   top: 100;
   right: 100;
@@ -65,7 +73,7 @@
   font-family: 'np-regular';
 }
 
-.next-corner {
+.southeast-corner {
   position: absolute;
   top: 100;
   right: 0;
