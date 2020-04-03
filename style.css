@@ -63,24 +63,10 @@
   padding-right: 5%;
 }
 
-.southwest-corner {
-  position: absolute;
-  top: 100;
-  right: 100;
-  padding-bottom: 5%;
-  padding-left: 5%;
-  font-size: 1.3em;
+.footer {
   font-family: 'np-regular';
-}
-
-.southeast-corner {
-  position: absolute;
-  top: 100;
-  right: 0;
   padding-bottom: 5%;
-  padding-right: 5%;
-  font-size: 1.3em;
-  font-family: 'np-regular';
+  text-align: center;
 }
 
 .title {
