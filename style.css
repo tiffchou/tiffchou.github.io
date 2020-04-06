@@ -35,7 +35,6 @@
 
 .blog-page {
   padding-top: 5%;
-  padding-bottom: 5%;
   padding-right: 15%;
   padding-left: 15%;
   text-align: left;
@@ -80,12 +79,12 @@
 }
 
 .subheader {
-  font-size: 1.1em;
+  font-size: 1.2em;
   font-family: 'np-regular';
 }
 
 .text-body {
-  font-size: 1.1em;
+  font-size: 1.2em;
   font-family: 'np-thin';
 }
 
