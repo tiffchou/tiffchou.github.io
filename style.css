@@ -91,6 +91,11 @@
   font-style: italic;
 }
 
+.sidebar-header {
+  font-size: 1em;
+  font-family: 'np-regular';
+}
+
 .text-body {
   font-size: 1.4em;
   font-family: 'np-thin';
