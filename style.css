@@ -34,9 +34,9 @@
 }
 
 .blog-page {
-  padding-top: 15%;
-  padding-right: 8%;
-  padding-left: 8%;
+  padding-top: 5%;
+  padding-right: 10%;
+  padding-left: 10%;
   text-align: left;
 }
 
@@ -68,9 +68,12 @@
 
 .footer {
   font-family: 'np-regular';
-  padding-bottom: 10%;
   text-align: center;
-  font-size: 1.4em;
+  font-size: 1em;
+}
+
+.bottom {
+  padding-bottom: 10%;
 }
 
 .title {
