@@ -35,7 +35,7 @@
 
 .blog-page {
   padding-top: 5%;
-  padding-right: 15%;
+  padding-right: 15vw;
   padding-left: 15%;
   text-align: left;
 }
@@ -79,8 +79,8 @@
 }
 
 .subheader {
-  font-size: 1.2em;
-  font-family: 'np-regular';
+  font-size: 1em;
+  font-style: italic;
 }
 
 .text-body {
